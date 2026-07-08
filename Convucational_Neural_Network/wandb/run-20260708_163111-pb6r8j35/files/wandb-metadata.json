@@ -1,0 +1,38 @@
+{
+  "os":  "macOS-26.5.2-arm64-arm-64bit",
+  "python":  "CPython 3.9.6",
+  "startedAt":  "2026-07-08T11:01:11.541705Z",
+  "program":  "/Users/debajyotihazra/Documents/GitHub03/Convucational_Neural_Network/Mnist Dataset.ipynb",
+  "codePath":  "/Users/debajyotihazra/Documents/GitHub03/Convucational_Neural_Network/Mnist Dataset.ipynb",
+  "codePathLocal":  "Mnist Dataset.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Debajyoti02-mac/Convucational-Neural-Network-.git",
+    "commit":  "7736d171cd3bc9de1dc3e236ec6ced084353e8c0"
+  },
+  "email":  "debuhazra96@gmail.com",
+  "root":  "/Users/debajyotihazra/Documents/GitHub03/Convucational_Neural_Network",
+  "host":  "Debajyotis-MacBook-Air.local",
+  "executable":  "/Library/Developer/CommandLineTools/usr/bin/python3",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "203105083392"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "apple":  {
+    "name":  "Apple M2",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  8,
+    "swapTotalBytes":  "1073741824",
+    "ramTotalBytes":  "8589934592",
+    "macModel":  "Mac14,2"
+  },
+  "writerId":  "ktwlomhd8o48cmxrwcwp0gk4hqad6sct"
+}

@@ -1,0 +1,54 @@
+_wandb:
+    value:
+        cli_version: 0.26.1
+        e:
+            bigjeg3clihgw4whkub3lo1255fupwa5:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 8
+                    macModel: Mac14,2
+                    memoryGb: 8
+                    name: Apple M2
+                    pcpuCores: 4
+                    ramTotalBytes: "8589934592"
+                    swapTotalBytes: "1073741824"
+                codePath: /Users/debajyotihazra/Documents/GitHub03/Convucational_Neural_Network/Mnist Dataset.ipynb
+                codePathLocal: Mnist Dataset.ipynb
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "245107195904"
+                        used: "203098574848"
+                email: debuhazra96@gmail.com
+                executable: /Library/Developer/CommandLineTools/usr/bin/python3
+                git:
+                    commit: 7736d171cd3bc9de1dc3e236ec6ced084353e8c0
+                    remote: https://github.com/Debajyoti02-mac/Convucational-Neural-Network-.git
+                host: Debajyotis-MacBook-Air.local
+                memory:
+                    total: "8589934592"
+                os: macOS-26.5.2-arm64-arm-64bit
+                program: /Users/debajyotihazra/Documents/GitHub03/Convucational_Neural_Network/Mnist Dataset.ipynb
+                python: CPython 3.9.6
+                root: /Users/debajyotihazra/Documents/GitHub03/Convucational_Neural_Network
+                startedAt: "2026-07-08T10:59:55.436872Z"
+                writerId: bigjeg3clihgw4whkub3lo1255fupwa5
+        m: []
+        python_version: 3.9.6
+        t:
+            "1":
+                - 1
+                - 41
+            "2":
+                - 1
+                - 41
+            "3":
+                - 2
+                - 13
+            "4": 3.9.6
+            "5": 0.26.1
+            "8":
+                - 1
+            "12": 0.26.1
+            "13": darwin-arm64
